@@ -1,20 +1,12 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+
+In this project we will learn how to implement an APC Design Architecture (Application, Page, Control) in our Xamarin Forms application.
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+The APC Architecture is based on the use of Styles which could be stored on the Application resources, Page resources or Control properties.
+We will group the styles by the functionality, so the best type is Explicit styles.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+If you want to learn more about Xamarin Forms styles: 
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+- [Xamarin forms styles](https://developer.xamarin.com/guides/xamarin-forms/user-interface/styles/)
