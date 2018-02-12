@@ -13,7 +13,7 @@ namespace APCXamarinForms
 		{
 			InitializeComponent();
 
-			MainPage = new APCXamarinForms.MainPage();
+			MainPage = new NavigationPage(new APCXamarinForms.MainPage());
 		}
 
 		protected override void OnStart ()

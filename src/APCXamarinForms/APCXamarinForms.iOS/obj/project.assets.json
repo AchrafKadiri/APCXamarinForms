@@ -760,11 +760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.iOS\\APCXamarinForms.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.iOS\\APCXamarinForms.iOS.csproj",
       "projectName": "APCXamarinForms.iOS",
-      "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.iOS\\APCXamarinForms.iOS.csproj",
+      "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.iOS\\APCXamarinForms.iOS.csproj",
       "packagesPath": "C:\\Users\\akadirid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.iOS\\obj\\",
+      "outputPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -785,8 +785,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj": {
-              "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj"
+            "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj": {
+              "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj"
             }
           }
         }

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APCXamarinForms.Page2" Title="Second page">
+    
+    
+    <StackLayout Padding="0,20,0,0" Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
+        <Label Text="This is the title style from the Second page." Style="{DynamicResource TitleAppStyle}"/>
+        <Label Text="In the second page we are using title style and body style from the device.In the buttons we also are using a custom button styles." 
+               Style="{DynamicResource DescriptionAppStyle}" />
+        <Button x:Name="btn_Previous" Style="{StaticResource ButtonPreviousStyle}"/>
+        <Button/>
+    </StackLayout>
+</ContentPage>

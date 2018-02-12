@@ -2,11 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:APCXamarinForms"
-             x:Class="APCXamarinForms.MainPage">
+             x:Class="APCXamarinForms.MainPage" Title="First page">
 
-    <StackLayout Padding="0,20,0,0" Orientation="Vertical">
-        <Button Text="Button 1"/>
-        <Button Text="Button 2"/>
+    <StackLayout Padding="0,20,0,0" Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
+        <Label Text="This is the title style from the device." Style="{DynamicResource TitleAppStyle}"/>
+        <Label Text="In this page we are using title style and body style from the device.In the buttons we also are using a custom button styles." 
+               Style="{DynamicResource DescriptionAppStyle}" />
+        <Button x:Name="btn_Next" Style="{StaticResource ButtonNextStyle}"/>
     </StackLayout>
-
 </ContentPage>

@@ -12,6 +12,14 @@ namespace APCXamarinForms
 		public MainPage()
 		{
 			InitializeComponent();
-		}
-	}
+            btn_Next.Clicked += Button_Clicked;
+
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+
+            Navigation.PushAsync(new Page2());
+        }
+    }
 }

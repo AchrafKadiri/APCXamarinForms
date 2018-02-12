@@ -713,11 +713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.Android\\APCXamarinForms.Android.csproj",
+      "projectUniqueName": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.Android\\APCXamarinForms.Android.csproj",
       "projectName": "APCXamarinForms.Android",
-      "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.Android\\APCXamarinForms.Android.csproj",
+      "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.Android\\APCXamarinForms.Android.csproj",
       "packagesPath": "C:\\Users\\akadirid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.Android\\obj\\",
+      "outputPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -738,8 +738,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj": {
-              "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj"
+            "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj": {
+              "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj"
             }
           }
         }

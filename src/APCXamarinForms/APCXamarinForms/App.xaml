@@ -5,8 +5,45 @@
     <Application.Resources>
         <ResourceDictionary>
 
+            <!--Tiltes style-->
+            <Style x:Key="TitleAppStyle" TargetType="Label" BaseResourceKey="TitleStyle">
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="Margin" Value="10" />
+            </Style>
+
+            <!--Descriptions style-->
+            <Style x:Key="DescriptionAppStyle" TargetType="Label" BaseResourceKey="BodyStyle">
+                <Setter Property="TextColor" Value="Gray"/>
+                <Setter Property="Margin" Value="10" />
+            </Style>
+
+            <!--Buttons style-->
+            <Style x:Key="ButtonAppStyle" TargetType="Button">
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="BorderRadius" Value="5" />
+                <Setter Property="BorderWidth" Value="5" />
+                <Setter Property="WidthRequest" Value="200" />
+            </Style>
+
+            <Style x:Key="ButtonNextStyle" TargetType="Button" BasedOn="{StaticResource ButtonAppStyle}">
+                <Setter Property="Text" Value="Next"/>
+                <Setter Property="BorderColor" Value="Green" />               
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BackgroundColor" Value="Green"/>
+            </Style>
+
+            <Style x:Key="ButtonPreviousStyle" TargetType="Button" BasedOn="{StaticResource ButtonAppStyle}">
+                <Setter Property="Text" Value="Previous"/>
+                <Setter Property="BorderColor" Value="Red" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BackgroundColor" Value="Red"/>
+            </Style>
+
+            
             <!--Implicit style sample-->
             <Style TargetType="Button">
+                <Setter Property="Text" Value="Implicit style"/>
                 <Setter Property="HorizontalOptions" Value="Center" />
                 <Setter Property="VerticalOptions" Value="Center" />
                 <Setter Property="BorderColor" Value="Red" />

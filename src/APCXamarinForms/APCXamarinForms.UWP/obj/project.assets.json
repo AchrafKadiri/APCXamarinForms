@@ -6761,11 +6761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.UWP\\APCXamarinForms.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.UWP\\APCXamarinForms.UWP.csproj",
       "projectName": "APCXamarinForms.UWP",
-      "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.UWP\\APCXamarinForms.UWP.csproj",
+      "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.UWP\\APCXamarinForms.UWP.csproj",
       "packagesPath": "C:\\Users\\akadirid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.UWP\\obj\\",
+      "outputPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -6786,8 +6786,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj": {
-              "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj"
+            "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj": {
+              "projectPath": "C:\\Users\\akadirid\\source\\repos\\APCXamarinForms\\src\\APCXamarinForms\\APCXamarinForms\\APCXamarinForms.csproj"
             }
           }
         }
