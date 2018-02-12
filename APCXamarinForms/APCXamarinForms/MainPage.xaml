@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:APCXamarinForms"
+             x:Class="APCXamarinForms.MainPage">
+
+    <StackLayout Padding="0,20,0,0" Orientation="Vertical">
+        <Button Text="Button 1"/>
+        <Button Text="Button 2"/>
+    </StackLayout>
+
+</ContentPage>

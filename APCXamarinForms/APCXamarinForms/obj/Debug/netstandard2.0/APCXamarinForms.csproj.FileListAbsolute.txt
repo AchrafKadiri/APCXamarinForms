@@ -1,0 +1,11 @@
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\bin\Debug\netstandard2.0\APCXamarinForms.deps.json
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\bin\Debug\netstandard2.0\APCXamarinForms.dll
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\bin\Debug\netstandard2.0\APCXamarinForms.pdb
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\obj\Debug\netstandard2.0\APCXamarinForms.csprojResolveAssemblyReference.cache
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\obj\Debug\netstandard2.0\APCXamarinForms.csproj.CoreCompileInputs.cache
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\obj\Debug\netstandard2.0\APCXamarinForms.App.xaml.g.cs
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\obj\Debug\netstandard2.0\APCXamarinForms.MainPage.xaml.g.cs
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\obj\Debug\netstandard2.0\APCXamarinForms.AssemblyInfoInputs.cache
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\obj\Debug\netstandard2.0\APCXamarinForms.AssemblyInfo.cs
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\obj\Debug\netstandard2.0\APCXamarinForms.dll
+C:\Users\akadirid\source\repos\APCXamarinForms\APCXamarinForms\APCXamarinForms\obj\Debug\netstandard2.0\APCXamarinForms.pdb
