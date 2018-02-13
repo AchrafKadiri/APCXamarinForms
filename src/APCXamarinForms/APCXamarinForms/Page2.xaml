@@ -2,12 +2,18 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="APCXamarinForms.Page2" Title="Second page">
-    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="TitleYellowStyle" TargetType="Label" BasedOn="{StaticResource TitleAppStyle}">
+                <Setter Property="TextColor" Value="Yellow"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     
     <StackLayout Padding="0,20,0,0" Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
-        <Label Text="This is the title style from the Second page." Style="{DynamicResource TitleAppStyle}"/>
+        <Label Text="This is the title style from the Second page." Style="{StaticResource TitleYellowStyle}"/>
         <Label Text="In the second page we are using title style and body style from the device.In the buttons we also are using a custom button styles." 
-               Style="{DynamicResource DescriptionAppStyle}" />
+               Style="{StaticResource DescriptionAppStyle}" />
         <Button x:Name="btn_Previous" Style="{StaticResource ButtonPreviousStyle}"/>
         <Button/>
     </StackLayout>

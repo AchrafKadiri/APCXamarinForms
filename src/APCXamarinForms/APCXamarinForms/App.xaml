@@ -13,7 +13,7 @@
 
             <!--Descriptions style-->
             <Style x:Key="DescriptionAppStyle" TargetType="Label" BaseResourceKey="BodyStyle">
-                <Setter Property="TextColor" Value="Gray"/>
+                <Setter Property="TextColor" Value="Red"/>
                 <Setter Property="Margin" Value="10" />
             </Style>
 

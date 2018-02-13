@@ -5,9 +5,9 @@
              x:Class="APCXamarinForms.MainPage" Title="First page">
 
     <StackLayout Padding="0,20,0,0" Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
-        <Label Text="This is the title style from the device." Style="{DynamicResource TitleAppStyle}"/>
+        <Label Text="This is the title style from the device." Style="{StaticResource TitleAppStyle}"/>
         <Label Text="In this page we are using title style and body style from the device.In the buttons we also are using a custom button styles." 
-               Style="{DynamicResource DescriptionAppStyle}" />
+               Style="{StaticResource DescriptionAppStyle}" />
         <Button x:Name="btn_Next" Style="{StaticResource ButtonNextStyle}"/>
     </StackLayout>
 </ContentPage>
